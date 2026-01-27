@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-groq
+groq 
+python-dotenv
+langchain-tavily
+typing
+langchain_community
