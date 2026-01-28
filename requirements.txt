@@ -8,6 +8,5 @@ python-dotenv
 langchain-tavily
 typing
 typing_extensions
-langgraph
 langchain_community
 groq
